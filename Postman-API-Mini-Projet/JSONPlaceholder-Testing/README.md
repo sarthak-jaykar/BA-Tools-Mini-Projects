@@ -16,17 +16,17 @@ JSONPlaceholder — public test REST API.
 
 **Tests Performed**
 
-Request	Purpose	Result
+Request	            Purpose	                                Result
 
-GET Posts	GET request + \_limit query parameter	200 OK
+GET Posts	GET       request + \_limit query parameter	      200 OK
 
-GET Single Post	Path parameter + response validation	200 OK
+GET Single Post	    Path parameter + response validation	  200 OK
 
-POST Create Post	POST + JSON body + Content-Type header	201 Created
+POST Create Post	  POST + JSON body + Content-Type header	201 Created
 
-GET Invalid Post	Negative/error testing	404 Not Found
+GET Invalid Post	  Negative/error testing	                404 Not Found
 
-Validations
+**Validations**
 
 Status-code validation
 
