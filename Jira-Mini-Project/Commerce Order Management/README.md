@@ -2,19 +2,19 @@
 
 
 
-\## Objective
+**\## Objective**
 
 A small standalone Jira project created to demonstrate practical Jira proficiency for a Business Analyst / Data Analyst role.
 
 
 
-\## Business Scenario
+**\## Business Scenario**
 
 An e-commerce company wants to improve its order-management process by allowing customers to place, track, cancel, and return orders.
 
 
 
-\## What I Practiced
+**\## What I Practiced**
 
 
 
@@ -44,7 +44,7 @@ An e-commerce company wants to improve its order-management process by allowing 
 
 
 
-\## Requirements Covered
+**\## Requirements Covered**
 
 
 
@@ -58,7 +58,7 @@ An e-commerce company wants to improve its order-management process by allowing 
 
 
 
-\## Evidence
+**\## Evidence**
 
 
 
@@ -76,15 +76,25 @@ An e-commerce company wants to improve its order-management process by allowing 
 
 
 
-\## Interview Takeaway
+**\## Interview Takeaway**
 
 
 
 This project demonstrates that I can use Jira from a BA perspective to organize requirements, write User Stories and Acceptance Criteria, prioritize work, manage a backlog and sprint, track development workflow, manage defects, and use JQL to find relevant issues.
 
+## BA/DA Relevance
+
+Jira is commonly used by BA/DA professionals to manage requirements, user stories, acceptance criteria, backlog items, sprints, defects, and delivery tracking.
+
+A BA can use Jira to translate business requirements into structured work items, prioritize them, support sprint planning, clarify requirements with the development team, and track progress and defects.
+
+## Interview Explanation
+
+“I created a small standalone Jira project for an e-commerce order-management scenario. I created an Epic and User Stories with Acceptance Criteria, prioritized the requirements, added Tasks and a Sub-task, managed a Sprint, moved issues through the workflow, created a Bug, and used basic JQL to filter issues. The project demonstrates practical Jira usage from a Business Analyst perspective.”
 
 
-\## Project Status
+
+**\## Project Status**
 
 Completed – Standalone Jira BA/DA Mini Project
 
