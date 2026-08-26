@@ -1,32 +1,33 @@
-1\. AS-IS Process Problems
+**1. AS-IS Process Problems**
 
-Manual Order Validation
+  1.Manual Order Validation
 
 Restaurant staff manually checks the order before accepting it, which can cause delays.
 
-Late Delivery Coordination
+  2.Late Delivery Coordination
 
 The delivery partner is involved only after the restaurant starts preparing the food, potentially creating pickup waiting time.
 
-Payment Before Order Acceptance
+  3.Payment Before Order Acceptance
 
 Payment is collected before the restaurant confirms the order. If rejected, a refund is required, adding an extra step and potential delay.
 
-2\. Corresponding TO-BE Improvements
+**2. Corresponding TO-BE Improvements**
 
-Automated Order Validation
+  1.Automated Order Validation
 
 Replace manual checking with automatic validation to speed up order acceptance.
 
-Earlier Delivery Notification
+  2.Earlier Delivery Notification
 
 Notify the delivery partner earlier so delivery coordination can begin before the food is ready.
 
-Explicit Rejection \& Refund Handling
+  3.Explicit Rejection \& Refund Handling
 
 Clearly notify the customer and process the refund when an order is rejected.
 
-Other Project Info
+
+**Other Project Info**
 
 Process: Online Food Order
 
