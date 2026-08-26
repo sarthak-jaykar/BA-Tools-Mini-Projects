@@ -1,4 +1,4 @@
-Objective
+**Objective**
 
 
 
@@ -6,7 +6,7 @@ A small standalone Postman project demonstrating basic REST API testing skills r
 
 
 
-API Used
+**API Used**
 
 
 
@@ -14,7 +14,7 @@ JSONPlaceholder — public test REST API.
 
 
 
-Tests Performed
+**Tests Performed**
 
 Request	Purpose	Result
 
@@ -38,7 +38,7 @@ Generated ID validation
 
 Negative/error response validation
 
-Postman Concepts Demonstrated
+**Postman Concepts Demonstrated**
 
 Collections
 
@@ -54,8 +54,7 @@ Response validation using Postman tests
 
 Positive and negative API testing
 
-Evidence
-
+**Evidence**
 
 
 Screenshots are included in the screenshots/ folder:
@@ -68,7 +67,7 @@ POST request and validations
 
 Negative test and validations
 
-BA/DA Relevance
+**BA/DA Relevance**
 
 
 
@@ -76,7 +75,7 @@ APIs are commonly used for system integration and data exchange. A BA can use AP
 
 
 
-Interview Explanation
+**Interview Explanation**
 
 
 
