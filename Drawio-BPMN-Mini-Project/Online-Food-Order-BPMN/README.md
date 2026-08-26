@@ -40,4 +40,9 @@ BPMN elements used: Start/End Events, Tasks, Exclusive Gateway, Sequence Flows, 
 Objective: Demonstrate practical BPMN/process-modelling proficiency using Draw.io.
 
 Key BA skill demonstrated: Analysing an existing process, identifying inefficiencies, and modelling an improved process.
+  Business process modelling, AS-IS process analysis, Bottleneck identification, Process improvement, TO-BE process modelling, BPMN communication using swimlanes and gateways.
+
+**Interview Explanation**
+
+"I created a standalone BPMN process-modelling exercise for an online food-order workflow. I modelled the AS-IS process across Customer, Restaurant, and Delivery Partner swimlanes, identified process bottlenecks, and designed a TO-BE process to address them. This demonstrated my ability to analyse an existing business process and translate process improvements into a clear BPMN model."
 
