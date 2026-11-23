@@ -1,98 +1,49 @@
-\# Confluence Mini-Project — IT Helpdesk Request Portal
+# Confluence Mini-Project — IT Helpdesk Request Portal
 
+![Confluence](https://img.shields.io/badge/Tool-Confluence-172B4D)
+![BA Practice](https://img.shields.io/badge/Focus-Requirements%20Documentation-2457A7)
 
+## Business scenario
 
-**## Project Overview**
+Employees are raising IT support requests through emails or informal messages. This makes it harder for the support team to maintain consistent request information and for employees to understand how requests are handled.
 
+## Objective
 
+Create a centralised documentation concept for an IT Helpdesk Request Portal, defining the business context and organising the requirements that would guide a structured request process.
 
-A small Business Analyst documentation project created in Confluence to demonstrate practical Confluence proficiency.
+## BA artefacts documented
 
+- Project overview, business problem, and objective
+- Stakeholder identification
+- Functional and non-functional requirements
+- User story and acceptance criteria
+- Requirements tables
+- Confluence status macro
+- Parent/child page hierarchy
 
+## Evidence
 
-**### Business Scenario**
+The screenshots below show the structure and key content created in Confluence.
 
+| Evidence | What it demonstrates |
+|---|---|
+| [Project overview](01_project_overview.jpeg) | Project context, business problem/objective, and stakeholders |
+| [Requirements](02_requirements.jpeg) | Functional and non-functional requirements |
+| [User story and acceptance criteria](03_user_story_acceptance.jpeg) | Requirement elaboration into a testable user need |
+| [Page hierarchy](04_page_hierarchy.jpeg) | Organisation of parent and child documentation pages |
 
+### Screenshot preview
 
-Employees were raising IT support requests through emails or informal messages, making requests difficult to track and prioritize.
+![Confluence project overview](01_project_overview.jpeg)
 
+## Business Analyst relevance
 
+This exercise demonstrates how Confluence can be used to maintain project knowledge and communicate requirements in a structured, accessible format. It focuses on documentation quality and traceability rather than software implementation.
 
-**### Business Objective**
+## Interview summary
 
+“I created a small IT Helpdesk Request Portal documentation exercise in Confluence. I documented the business context and stakeholders, captured functional and non-functional requirements, and elaborated a user story with acceptance criteria. I also organised the content using Confluence tables, a status macro, and a parent/child page hierarchy.”
 
+## Author
 
-Create a centralized IT support request process where employees can submit and track requests and the IT team can manage and resolve them efficiently.
-
-
-
-**## What I Created**
-
-
-
-\- Project overview with project status
-
-\- Business problem and objective
-
-\- Stakeholder identification
-
-\- Functional requirements
-
-\- Non-functional requirements
-
-\- User story
-
-\- Acceptance criteria
-
-\- Requirements tables
-
-\- Confluence Status macro
-
-\- Parent and child page hierarchy
-
-
-
-**## BA Relevance**
-
-
-
-Confluence is commonly used by Business Analysts to document and maintain project knowledge and requirements.
-
-
-
-This project demonstrates my ability to:
-
-\- Structure business requirements professionally
-
-\- Document functional and non-functional requirements
-
-\- Define user stories and acceptance criteria
-
-\- Organize project documentation using Confluence pages
-
-\- Use Confluence features such as tables, status and page hierarchy
-
-
-
-**## Evidence**
-
-
-
-Screenshots are included in the folder:
-
-
-
-\- `01\_project\_overview.png` — Project overview, business problem/objective and stakeholders
-
-\- `02\_requirements.png` — Functional requirements, non-functional requirements, user story and acceptance criteria
-
-\- `03\_page\_hierarchy.png` — Confluence parent/child page structure
-
-
-
-**## Interview Explanation**
-
-
-
-"I created a small IT Helpdesk Request Portal requirements project in Confluence to demonstrate my practical BA documentation skills. I documented the business problem, objective, stakeholders, functional and non-functional requirements, and created a user story with acceptance criteria. I also used Confluence tables, the Status macro and page hierarchy to organize the documentation professionally. The project demonstrates how I would use Confluence as a BA to maintain and communicate requirements with stakeholders."
-
+[Sarthak Jaykar — GitHub](https://github.com/sarthak-jaykar) · [LinkedIn](https://www.linkedin.com/in/sarthak-jaykar/)
