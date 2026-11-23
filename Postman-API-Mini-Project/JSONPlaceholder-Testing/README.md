@@ -1,84 +1,57 @@
-Objective
+# Postman Mini-Project — JSONPlaceholder API Testing
 
+![Postman](https://img.shields.io/badge/Tool-Postman-FF6C37)
+![BA Practice](https://img.shields.io/badge/Focus-API%20Testing%20Awareness-2457A7)
 
+## Objective
 
-A small standalone Postman project demonstrating basic REST API testing skills relevant to BA/DA roles.
+Practise basic REST API request and response checks using JSONPlaceholder, a public test API. The exercise builds API and integration awareness relevant to a Business Analyst working with system requirements and technical teams.
 
+## API used
 
+**JSONPlaceholder** — public mock REST API for testing and learning.
 
-API Used
+## Test scenarios
 
+| Scenario | What was practised | Observed response |
+|---|---|---|
+| GET posts | GET request with `_limit` query parameter | 200 OK |
+| GET single post | Path parameter and response validation | 200 OK |
+| POST create post | JSON request body and Content-Type header | 201 Created |
+| GET invalid post | Negative/error scenario | 404 Not Found |
 
+## Validations practised
 
-JSONPlaceholder — public test REST API.
+- HTTP status-code checks
+- Required response-field checks
+- Response content/data checks
+- Generated ID checks
+- Negative/error response checks
 
+## Evidence
 
+The evidence files are stored directly in this project folder (there is no separate `screenshots/` directory).
 
-Tests Performed
+| Evidence | What it demonstrates |
+|---|---|
+| [Collection overview](01-collection-overview.jpeg) | Organisation of the API requests |
+| [POST request and validation](02-post-request-validation.jpeg) | Request payload and response checks |
+| [Negative test and validation](03-negative-test-validation.jpeg) | Handling of an invalid resource request |
 
-Request	Purpose	Result
+### Screenshot preview
 
-GET Posts	GET request + \_limit query parameter	200 OK
+![Postman collection overview](01-collection-overview.jpeg)
 
-GET Single Post	Path parameter + response validation	200 OK
+## Business Analyst relevance
 
-POST Create Post	POST + JSON body + Content-Type header	201 Created
+APIs support data exchange and integration between systems. A Business Analyst may need to understand endpoint purpose, request parameters, payload fields, expected responses, and error scenarios when documenting integration requirements or discussing system behaviour with technical teams.
 
-GET Invalid Post	Negative/error testing	404 Not Found
+This exercise demonstrates basic API testing awareness; it is not a production integration or a complete API test strategy.
 
-Validations
+## Interview summary
 
-Status-code validation
+“I used Postman with the JSONPlaceholder public test API to practise GET and POST requests, query and path parameters, JSON request bodies, headers, and response validation. I also tested an invalid resource to review a negative scenario and its 404 response.”
 
-Required response fields
+## Author
 
-Response data/content validation
-
-Generated ID validation
-
-Negative/error response validation
-
-Postman Concepts Demonstrated
-
-Collections
-
-GET \& POST requests
-
-Query/path parameters
-
-JSON request body
-
-HTTP headers
-
-Response validation using Postman tests
-
-Positive and negative API testing
-
-Evidence
-
-
-
-Screenshots are included in the screenshots/ folder:
-
-
-
-Collection overview
-
-POST request and validations
-
-Negative test and validations
-
-BA/DA Relevance
-
-
-
-APIs are commonly used for system integration and data exchange. A BA can use API testing to verify that systems send/receive the expected data and that error scenarios are handled correctly.
-
-
-
-Interview Explanation
-
-
-
-“I created a small Postman API testing project using JSONPlaceholder. I tested GET and POST endpoints, used query/path parameters, JSON request bodies and headers, and added response validations for status codes and required fields. I also included a negative test for a non-existent resource and organized everything into a Postman collection.”
-
+[Sarthak Jaykar — GitHub](https://github.com/sarthak-jaykar) · [LinkedIn](https://www.linkedin.com/in/sarthak-jaykar/)
