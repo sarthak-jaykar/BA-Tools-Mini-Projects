@@ -1,100 +1,60 @@
-\# Jira Mini Project – E-Commerce Order Management
+# Jira Mini-Project — E-Commerce Order Management
 
+![Jira](https://img.shields.io/badge/Tool-Jira-0052CC)
+![BA Practice](https://img.shields.io/badge/Focus-Agile%20Requirements-2457A7)
 
+## Business scenario
 
-**\## Objective**
+An e-commerce business wants to support a more organised order-management journey, covering order placement, tracking, cancellation, and returns.
 
-A small standalone Jira project created to demonstrate practical Jira proficiency for a Business Analyst / Data Analyst role.
+## Objective
 
+Practise translating a small set of business needs into structured Jira work items and tracking them through a basic Agile workflow.
 
+## Requirements represented
 
-**\## Business Scenario**
+1. Customers can place an order.
+2. Customers can track an order.
+3. Customers can cancel an order.
+4. Customers can request an order return.
 
-An e-commerce company wants to improve its order-management process by allowing customers to place, track, cancel, and return orders.
+## Jira work completed
 
+- Created a Jira Scrum project.
+- Created an **Order Management** epic.
+- Created four user stories with descriptions and acceptance criteria.
+- Applied priorities and story points.
+- Added tasks and a sub-task.
+- Created and managed a one-week sprint.
+- Used the workflow **To Do → In Progress → Review → Done**.
+- Created and tracked a bug.
+- Used basic JQL to filter issues.
 
+## Evidence
 
-**\## What I Practiced**
-
-
-
-\- Created a Jira Scrum project
-
-\- Created an Epic: Order Management
-
-\- Created 4 User Stories
-
-\- Added User Story descriptions and Acceptance Criteria
-
-\- Applied priorities and Story Points
-
-\- Created Tasks and a Sub-task
-
-\- Created and managed a 1-week Sprint
-
-\- Used Jira workflow: To Do → In Progress → Review → Done
-
-\- Moved issues through the workflow
-
-\- Created and tracked a Bug
-
-\- Used basic JQL for issue filtering
-
-\- Practiced backlog and sprint management
-
-
-
-**\## Requirements Covered**
-
-
-
-1\. Customer can place an order
-
-2\. Customer can track an order
-
-3\. Customer can cancel an order
-
-4\. Customer can request an order return
-
-
-
-**\## Evidence**
-
-
-
-| Screenshot | Demonstrates |
-
+| Evidence | What it demonstrates |
 |---|---|
+| [Epic and user stories](01-epic-and-user-stories.jpeg) | Epic structure and story organisation |
+| [Acceptance criteria](02-user-story-acceptance-criteria.jpeg) | Requirement detail and testable acceptance conditions |
+| [Sprint workflow](03-active-sprint-workflow.jpeg) | Sprint and issue-state tracking |
+| [JQL and bug filter](04-jql-bug-filter.jpeg) | Defect tracking and issue filtering |
 
-| `01-epic-and-user-stories.png` | Epic and User Story organization |
+### Screenshot preview
 
-| `02-user-story-acceptance-criteria.png` | BA requirement writing and Acceptance Criteria |
+![Jira epic and user stories](01-epic-and-user-stories.jpeg)
 
-| `03-active-sprint-workflow.png` | Sprint and issue workflow management |
+## Business Analyst relevance
 
-| `04-jql-bug-filter.png` | JQL-based issue filtering and Bug tracking |
+Jira helps connect requirements with delivery activity. This exercise demonstrates the practical steps of organising an epic and backlog, writing user stories and acceptance criteria, prioritising work, supporting sprint execution, and tracking defects.
 
+## Interview summary
 
+“I created a standalone Jira exercise around e-commerce order management. I translated four customer needs into user stories with acceptance criteria, organised them under an epic, prioritised the work, and practised sprint and workflow management. I also created a bug and used basic JQL to filter issues.”
 
-**\## Interview Takeaway**
+## Project status
 
+Completed — standalone Jira tool-practice exercise.
 
+## Author
 
-This project demonstrates that I can use Jira from a BA perspective to organize requirements, write User Stories and Acceptance Criteria, prioritize work, manage a backlog and sprint, track development workflow, manage defects, and use JQL to find relevant issues.
-
-## BA/DA Relevance
-
-Jira is commonly used by BA/DA professionals to manage requirements, user stories, acceptance criteria, backlog items, sprints, defects, and delivery tracking.
-
-A BA can use Jira to translate business requirements into structured work items, prioritize them, support sprint planning, clarify requirements with the development team, and track progress and defects.
-
-## Interview Explanation
-
-“I created a small standalone Jira project for an e-commerce order-management scenario. I created an Epic and User Stories with Acceptance Criteria, prioritized the requirements, added Tasks and a Sub-task, managed a Sprint, moved issues through the workflow, created a Bug, and used basic JQL to filter issues. The project demonstrates practical Jira usage from a Business Analyst perspective.”
-
-
-
-**\## Project Status**
-
-Completed – Standalone Jira BA/DA Mini Project
-
+[Sarthak Jaykar — GitHub](https://github.com/sarthak-jaykar) · [LinkedIn](https://www.linkedin.com/in/sarthak-jaykar/)
