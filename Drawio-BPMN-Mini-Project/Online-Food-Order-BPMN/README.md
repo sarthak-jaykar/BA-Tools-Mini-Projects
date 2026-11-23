@@ -1,48 +1,53 @@
-**1. AS-IS Process Problems**
+# Draw.io / BPMN Mini-Project — Online Food Order Process
 
-  1.Manual Order Validation
+![Draw.io](https://img.shields.io/badge/Tool-Draw.io-F08705)
+![BA Practice](https://img.shields.io/badge/Focus-Business%20Process%20Analysis-2457A7)
 
-Restaurant staff manually checks the order before accepting it, which can cause delays.
+## Business scenario
 
-  2.Late Delivery Coordination
+This exercise models an online food-order journey involving three participants: the customer, restaurant, and delivery partner.
 
-The delivery partner is involved only after the restaurant starts preparing the food, potentially creating pickup waiting time.
+## Objective
 
-  3.Payment Before Order Acceptance
+Analyse a simplified current-state process, identify potential friction points, and communicate a proposed future-state flow using BPMN-style process modelling in Draw.io.
 
-Payment is collected before the restaurant confirms the order. If rejected, a refund is required, adding an extra step and potential delay.
+## AS-IS analysis — observed process issues
 
-**2. Corresponding TO-BE Improvements**
+1. **Manual order validation:** restaurant staff manually check an order before accepting it, which may delay confirmation.
+2. **Late delivery coordination:** the delivery partner is involved only after food preparation begins, potentially creating avoidable pickup waiting time.
+3. **Payment before order acceptance:** payment is collected before restaurant confirmation, so a rejected order requires a refund step.
 
-  1.Automated Order Validation
+## TO-BE considerations
 
-Replace manual checking with automatic validation to speed up order acceptance.
+1. **Earlier validation:** use an automated validation step where appropriate to reduce manual checking.
+2. **Earlier delivery notification:** notify the delivery partner sooner to improve coordination.
+3. **Clear rejection and refund handling:** make rejection communication and refund processing explicit in the proposed flow.
 
-  2.Earlier Delivery Notification
+These are proposed process improvements for the exercise, not measured operational outcomes.
 
-Notify the delivery partner earlier so delivery coordination can begin before the food is ready.
+## Process diagrams
 
-  3.Explicit Rejection \& Refund Handling
+| AS-IS process | TO-BE process |
+|---|---|
+| ![Online food order AS-IS](OFO-AS-IS%20Process.drawio.png) | ![Online food order TO-BE](OFO-TO-BE%20Process.drawio.png) |
 
-Clearly notify the customer and process the refund when an order is rejected.
+[Open editable Draw.io source](Online-Food-Order-Process-BPMN.drawio).
 
+## Modelling elements used
 
-**Other Project Info**
+- Start and end events
+- Tasks and sequence flows
+- Exclusive gateway
+- Swimlanes for Customer, Restaurant, and Delivery Partner
 
-Process: Online Food Order
+## Business Analyst relevance
 
-Actors: Customer, Restaurant, Delivery Partner
+The exercise demonstrates a basic process-analysis cycle: understand the existing workflow, identify handoff and control issues, and represent a proposed process so stakeholders can review the changes.
 
-Method: AS-IS → Problem Identification → TO-BE
+## Interview summary
 
-BPMN elements used: Start/End Events, Tasks, Exclusive Gateway, Sequence Flows, Swimlanes
+“I modelled an online food-order process across Customer, Restaurant, and Delivery Partner swimlanes. I reviewed the AS-IS flow, identified potential delays around manual validation, delivery coordination, and payment before acceptance, and created a TO-BE model to make the proposed improvements explicit.”
 
-Objective: Demonstrate practical BPMN/process-modelling proficiency using Draw.io.
+## Author
 
-Key BA skill demonstrated: Analysing an existing process, identifying inefficiencies, and modelling an improved process.
-  Business process modelling, AS-IS process analysis, Bottleneck identification, Process improvement, TO-BE process modelling, BPMN communication using swimlanes and gateways.
-
-**Interview Explanation**
-
-"I created a standalone BPMN process-modelling exercise for an online food-order workflow. I modelled the AS-IS process across Customer, Restaurant, and Delivery Partner swimlanes, identified process bottlenecks, and designed a TO-BE process to address them. This demonstrated my ability to analyse an existing business process and translate process improvements into a clear BPMN model."
-
+[Sarthak Jaykar — GitHub](https://github.com/sarthak-jaykar) · [LinkedIn](https://www.linkedin.com/in/sarthak-jaykar/)
