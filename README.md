@@ -32,7 +32,7 @@ The online food-order exercise follows an analysis sequence: understand the curr
 - **Understand and document:** capture the business context, requirements, and acceptance criteria in Confluence.
 - **Analyse and improve:** represent a process, identify issues, and communicate a proposed flow using Draw.io.
 - **Support delivery:** organise requirements and track work through Jira.
-- **Understand system behaviour:** inspect API requests and responses with Postman to build integration and testing awareness.
+- **Understand system behaviour:** check API requests and responses with Postman to build basic integration and testing awareness.
 
 ## Repository structure
 
